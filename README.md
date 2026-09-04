@@ -1,4 +1,4 @@
-A freelancing website exclusive for graphic designers made as a college project
+Freelancing website exclusive for graphic designers made as a college project
 
 Technology
 - React.js
